@@ -1,0 +1,8 @@
+Test Result,Resource Name,Test Name,Time Elapsed,Tuples,Test Message
+OK,C:\Denodo\Denodo_Testing_Tool\samples\samples1\tests\s1test01.denodotest,Samples1: base test,839ms,4,Obtained and expected results match.
+OK,C:\Denodo\Denodo_Testing_Tool\samples\samples1\tests\s1test02.denodotest,Samples1: unordered results,12ms,4,Obtained and expected results match.
+OK,C:\Denodo\Denodo_Testing_Tool\samples\samples1\tests\s1test03.denodotest,Samples1: CSV results,14ms,4,Obtained and expected results match.
+OK,C:\Denodo\Denodo_Testing_Tool\samples\samples1\tests\s1test04.denodotest,Samples1: external query script,12ms,4,Obtained and expected results match.
+OK,C:\Denodo\Denodo_Testing_Tool\samples\samples1\tests\s1test05.denodotest,Samples1: results as query to data source,16ms,4,Obtained and expected results match.
+OK,C:\Denodo\Denodo_Testing_Tool\samples\samples1\tests\s1test06.denodotest,Samples1: use context variable in queries,12ms,4,Obtained and expected results match.
+OK,C:\Denodo\Denodo_Testing_Tool\samples\samples1\tests\s1test07.denodotest,Samples1: extend test and redefine context variable in child,14ms,3,Obtained and expected results match.
